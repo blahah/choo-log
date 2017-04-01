@@ -26,7 +26,7 @@
   "devDependencies": {
     "bankai": "^6.1.1",
     "choo": "^5.0.0",
-    "dependency-check": "^2.5.2",
+    "dependency-check": "^2.8.0",
     "istanbul": "^0.4.4",
     "standard": "^9.0.2",
     "tape": "^4.6.0"
